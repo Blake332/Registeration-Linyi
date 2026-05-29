@@ -1,0 +1,34 @@
+node_modules/
+dist/
+.env
+.DS_Store
+Thumbs.db
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/.idea/
+.vscode/
+.DS_Store
+coverage/
+*.log
+/.cache/# Dependency directories
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# OneDrive
+*.lnk
+
+# Built files
+dist/
+build/
